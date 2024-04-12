@@ -5,7 +5,7 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Certified Product Development Managaer (CPDM)",
+    title: "Certified Product Development Manager (CPDM)",
     ID: "2023/CPDM-II/ESAS/XI/007",
     DATE: "2023-11-19",
     EXPIRED: "Seumur Hidup",
