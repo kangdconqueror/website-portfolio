@@ -3,14 +3,15 @@
 particlesJS('particles-js', {
 	particles: {
 		number: {
-			value: 140,
+			value: 80,
 			density: {
 				enable: true,
-				value_area: 800
+				value_area: 1200
 			}
 		},
 		color: {
-			value: [ '#2EB67D', '#ECB22E', '#E01E5B', '#36C5F0' ]
+			value: [ '#00FF00', '#008F11', '#003B00', '#0F0F0F' ]
+
 		},
 		shape: {
 			type: 'circle',
@@ -19,7 +20,7 @@ particlesJS('particles-js', {
 				color: '#fff'
 			},
 			polygon: {
-				nb_sides: 5
+				nb_sides: 2
 			},
 			image: {
 				src: 'https://cdn.freebiesupply.com/logos/large/2x/slack-logo-icon.png',
@@ -39,7 +40,7 @@ particlesJS('particles-js', {
 			}
 		},
 		size: {
-			value: 8,
+			value: 4,
 			random: true,
 			anim: {
 				enable: false,
